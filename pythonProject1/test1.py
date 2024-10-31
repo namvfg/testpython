@@ -18,3 +18,6 @@ print(f"x / y =  {x / y}")
 print(f"x // y =  {x // y}")
 print(f"x ** y =  {x ** y}")
 print(f"x % y =  {x % y}")
+
+x, y, z = 7, 8, 9
+print(x); print(y); print(z)
